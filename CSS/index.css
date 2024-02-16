@@ -1,0 +1,36 @@
+#game {
+  width: 80vw;
+  height: 40vh;
+  max-height: 80vh;
+  max-width: 133.33vw;
+  margin: auto;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  left: 0;
+}
+
+#myCanvas {
+  width: 80vw;
+  height: 50vw;
+  background-color: black;
+  margin: auto;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  border: 1px solid #c3c3c3;
+  border-radius: 10px;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  padding: 0;
+  margin: 0;
+}
